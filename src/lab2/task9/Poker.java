@@ -7,7 +7,9 @@ import java.util.Scanner;
 public class Poker {
     public static void main(String[] args) {
         // Получаем число игроков от пользователя
-        int numPlayers = getPlayerCountFromUser();
+        System.out.println("Введите количество игроков: ");
+        Scanner scanner = new Scanner(System.in);
+        int numPlayers = scanner.nextInt();
 
         // Создаем и перетасовываем колоду карт
         ArrayList<String> deck = createDeck();
@@ -15,13 +17,6 @@ public class Poker {
 
         // Раздаем карты каждому игроку
         dealCards(deck, numPlayers);
-    }
-
-    public static int getPlayerCountFromUser() {
-        // Получаем число игроков от пользователя
-        Scanner scanner = new Scanner(System.in);
-        int numPlayers = scanner.nextInt();
-        return numPlayers;
     }
 
     public static ArrayList<String> createDeck() {
@@ -46,11 +41,11 @@ public class Poker {
 
     public static void dealCards(ArrayList<String> deck, int numPlayers) {
         // Раздаем карты каждому игроку
-        int numCardsPerPlayer = 5;
+        int numCards = 5;
 
         for (int i = 0; i < numPlayers; i++) {
             System.out.println("Игрок " + (i + 1) + ":");
-            for (int j = 0; j < numCardsPerPlayer; j++) {
+            for (int j = 0; j < numCards; j++) {
                 String card = deck.remove(0);
                 System.out.println(card);
             }

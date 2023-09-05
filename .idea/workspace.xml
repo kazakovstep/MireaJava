@@ -4,40 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca49d498-f36e-4115-8764-b0df48c390f3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MireaJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab1/task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab1/task2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab1/task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab1/task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab1/task5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task1/Author.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task1/TestAuthor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task10/HowMany.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task2/Ball.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task2/TestBall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task3/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task3/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task3/TestPointCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task4/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task4/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task4/TesterShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task5/Dog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task5/TestDog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task6/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task6/CircleTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task7/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task7/Booktest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task7/Shelf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task8/task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab2/task9/Poker.java" afterDir="false" />
+    <list default="true" id="ca49d498-f36e-4115-8764-b0df48c390f3" name="Changes" comment="init">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab2/task5/TestDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab2/task5/TestDog.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab2/task9/Poker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab2/task9/Poker.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,8 +55,17 @@
       <option name="presentableId" value="Default" />
       <updated>1693814289964</updated>
       <workItem from="1693814290670" duration="4430000" />
-      <workItem from="1693818912638" duration="5913000" />
+      <workItem from="1693818912638" duration="9468000" />
+      <workItem from="1693899951879" duration="1110000" />
     </task>
+    <task id="LOCAL-00001" summary="init">
+      <created>1693862987472</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1693862987472</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -114,6 +93,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init" />
+    <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">

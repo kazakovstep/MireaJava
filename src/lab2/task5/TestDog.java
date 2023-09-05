@@ -24,7 +24,7 @@ public class TestDog {
 
             System.out.print("Добавить еще собаку? (да/нет): ");
             String response = scanner.nextLine();
-            if (response.equalsIgnoreCase("нет")) {
+            if (response.equals("нет")) {
                 addMoreDogs = false;
             }
         }
