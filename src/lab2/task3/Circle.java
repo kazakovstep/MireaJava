@@ -1,8 +1,31 @@
 package lab2.task3;
 
-import lab2.task3.Point;
-
 class Circle {
+    static class Point{
+        private double x;
+        private double y;
+
+        public Point(double x, double y) {
+            this.x = x;
+            this.y = y;
+        }
+
+        public double getX() {
+            return x;
+        }
+
+        public double getY() {
+            return y;
+        }
+
+        public void setX(double x) {
+            this.x = x;
+        }
+
+        public void setY(double y) {
+            this.y = y;
+        }
+    }
     private Point center;
     private double radius;
 

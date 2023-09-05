@@ -1,12 +1,9 @@
 package lab2.task3;
 
-import lab2.task3.Circle;
-import lab2.task3.Point;
-
 public class TestPointCircle {
     public static void main(String[] args) {
-        Point point1 = new Point(3, 4);
-        Point point2 = new Point(-2, 1);
+        Circle.Point point1 = new Circle.Point(3, 4);
+        Circle.Point point2 = new Circle.Point(-2, 1);
 
         Circle circle1 = new Circle(point1, 5);
         Circle circle2 = new Circle(point2, 3);

@@ -1,8 +1,5 @@
 package lab2.task4;
 
-import lab2.task4.Computer;
-import lab2.task4.Shop;
-
 import java.util.Scanner;
 
 public class TesterShop {
@@ -23,7 +20,7 @@ public class TesterShop {
             System.out.print("Модель: ");
             String model = scanner.next();
 
-            Computer computer = new Computer(brand, model);
+            Shop.Computer computer = new Shop.Computer(brand, model);
             shop.addComputer(computer);
         }
 
@@ -35,7 +32,7 @@ public class TesterShop {
         System.out.print("Введите модель компьютера для поиска: ");
         String searchModel = scanner.next();
 
-        Computer foundComputer = shop.findComputer(searchBrand, searchModel);
+        Shop.Computer foundComputer = shop.findComputer(searchBrand, searchModel);
 
         if (foundComputer != null) {
             System.out.println("Компьютер найден:");
@@ -50,7 +47,7 @@ public class TesterShop {
 
         System.out.print("Введите модель компьютера для удаления: ");
         String searchModelRemove = scanner.next();
-        Computer foundComputerRemove = shop.findComputer(searchBrandRemove, searchModelRemove);
+        Shop.Computer foundComputerRemove = shop.findComputer(searchBrandRemove, searchModelRemove);
         if (foundComputer != null) {
             System.out.println("Компьютер найден:");
             System.out.println("Бренд: " + foundComputerRemove.getBrand());

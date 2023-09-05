@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca49d498-f36e-4115-8764-b0df48c390f3" name="Changes" comment="init">
+    <list default="true" id="ca49d498-f36e-4115-8764-b0df48c390f3" name="Changes" comment="initv2">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab2/task5/TestDog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab2/task5/TestDog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab2/task9/Poker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab2/task9/Poker.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab2/task3/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab2/task3/Circle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab2/task3/Point.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab2/task3/TestPointCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab2/task3/TestPointCircle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +57,7 @@
       <updated>1693814289964</updated>
       <workItem from="1693814290670" duration="4430000" />
       <workItem from="1693818912638" duration="9468000" />
-      <workItem from="1693899951879" duration="1110000" />
+      <workItem from="1693899951879" duration="2756000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1693862987472</created>
@@ -65,7 +66,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693862987472</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initv2">
+      <created>1693901691992</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1693901691992</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -96,7 +104,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
-    <option name="LAST_COMMIT_MESSAGE" value="init" />
+    <MESSAGE value="initv2" />
+    <option name="LAST_COMMIT_MESSAGE" value="initv2" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
