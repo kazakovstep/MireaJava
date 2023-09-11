@@ -4,19 +4,68 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca49d498-f36e-4115-8764-b0df48c390f3" name="Changes" comment="initv2">
-      <change afterPath="$PROJECT_DIR$/src/lab3/Converter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/OnlineShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/Report.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/ShopTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/task1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/task3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/task4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab3/task5.java" afterDir="false" />
+    <list default="true" id="ca49d498-f36e-4115-8764-b0df48c390f3" name="Changes" comment="lab3">
+      <change afterPath="$PROJECT_DIR$/src/lab4/task1/FavoriteSeason.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task1/Season.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task2/Atelier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task2/Clothes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task2/ClothingSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task2/MenClothing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task2/Pants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task2/Skirt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task2/TShirt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task2/Tie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task2/WomenClothing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task3/Cart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task3/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task3/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task3/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task4/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task4/ComputerBrand.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task4/Memory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task4/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4/task4/Processor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task1/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task1/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task1/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task1/ShapeTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task1/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task10/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task10/Plane.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task10/Ship.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task10/Train.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task10/Transport.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task10/TransportTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task2/Phone.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task3/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task4/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task5/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task5/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task6/Employer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task6/Manager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task7/School.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task7/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task7/StudyPeople.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task8/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task8/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task8/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task8/ShapeTester.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task8/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task9/Chair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task9/Furniture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task9/FurnitureShop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task9/Sofa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab4_1/task9/Table.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab2/task3/Circle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab2/task3/Circle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab2/task3/TestPointCircle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab2/task3/TestPointCircle.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +100,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/kazak/MireaJava",
+    "last_opened_file_path": "C:/Users/kazak/MireaJava/src/lab4_1/task8",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -60,6 +109,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kazak\MireaJava\src\lab4_1\task8" />
+      <recent name="C:\Users\kazak\MireaJava\src\lab4_1" />
+      <recent name="C:\Users\kazak\MireaJava\src\lab4" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -76,7 +132,10 @@
       <workItem from="1694036236744" duration="41000" />
       <workItem from="1694118562438" duration="878000" />
       <workItem from="1694366799189" duration="135000" />
-      <workItem from="1694366997209" duration="4785000" />
+      <workItem from="1694366997209" duration="5045000" />
+      <workItem from="1694374522159" duration="3000" />
+      <workItem from="1694416343195" duration="2585000" />
+      <workItem from="1694463670396" duration="6510000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1693862987472</created>
@@ -99,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1693903557180</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lab3">
+      <created>1694373493011</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1694373493011</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,7 +197,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="init" />
     <MESSAGE value="initv2" />
-    <option name="LAST_COMMIT_MESSAGE" value="initv2" />
+    <MESSAGE value="lab3" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab3" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
@@ -208,6 +275,52 @@
             </ChatHistoryModel>
           </value>
         </entry>
+        <entry key="675faa">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/lab4_1/task8/Rectangle.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task4/Main.java" />
+                  <option value="$PROJECT_DIR$/src/lab4/task2/Main.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task9/Main.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task7/Main.java" />
+                  <option value="$PROJECT_DIR$/src/lab4/task4/Main.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task2/Main.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task6/Main.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task3/Main.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task5/Main.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task1/Shape.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task8/Shape.java" />
+                </list>
+              </option>
+              <option name="id" value="675faa" />
+              <option name="initiateTms" value="1694470151034" />
+              <option name="request" value="Exception in thread &quot;main&quot; java.lang.NullPointerException: Cannot invoke &quot;java.lang.Boolean.booleanValue()&quot; because &quot;this.filled&quot; is null&#10;&#9;at lab4_1.task8.Rectangle.isFilled(Rectangle.java:65)&#10;&#9;at lab4_1.task8.Rectangle.toString(Rectangle.java:54)&#10;&#9;at lab4_1.task8.ShapeTester.main(ShapeTester.java:10)&#10;" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="The `NullPointerException` occurs because you are trying to invoke the `booleanValue()` method on a `null` value in the `isFilled()` method of the `Rectangle` class. This happens when the `filled` field is not initialized.&#10;&#10;To fix this issue, you need to ensure that the `filled` field is properly initialized in the `Rectangle` class. You can do this by setting a default value for the `filled` field in the constructor or by using the autoboxing feature to assign a default value of `false` to the `filled` field.&#10;&#10;Here's an example of how you can initialize the `filled` field in the `Rectangle` class:&#10;&#10;```java&#10;public class Rectangle extends Shape {&#10;    // ...&#10;&#10;    public Rectangle(double width, double length, String color, boolean filled) {&#10;        super(color, filled);&#10;        this.width = width;&#10;        this.length = length;&#10;    }&#10;&#10;    // ...&#10;&#10;    public boolean isFilled() {&#10;        if (filled == null) {&#10;            return false; // or throw an exception, depending on your requirements&#10;        }&#10;        return filled;&#10;    }&#10;&#10;    // ...&#10;}&#10;```&#10;&#10;In the `isFilled()` method, we check if the `filled` field is `null`. If it is `null`, we return `false` as a default value. You can modify this behavior based on your specific requirements.&#10;&#10;By making this change, the `NullPointerException` should be resolved. Let me know if you have any further questions!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1694470168104" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/lab4_1/task5/Main.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task8/Rectangle.java" />
+                  <option value="$PROJECT_DIR$/src/lab4/task4/Main.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task4/Main.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task6/Main.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task1/Shape.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task9/Main.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task3/Main.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task8/Shape.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task7/Main.java" />
+                  <option value="$PROJECT_DIR$/src/lab4/task2/Main.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task2/Main.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
         <entry key="78ec94">
           <value>
             <ChatHistoryModel>
@@ -246,6 +359,40 @@
               <option name="usedFilesPaths">
                 <list>
                   <option value="$PROJECT_DIR$/src/lab2/task9/Poker.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="84be51">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/lab4_1/task8/Circle.java" />
+                  <option value="$PROJECT_DIR$/src/lab2/task3/Circle.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task1/Circle.java" />
+                  <option value="$PROJECT_DIR$/src/lab2/task6/Circle.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task1/Shape.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task8/Shape.java" />
+                </list>
+              </option>
+              <option name="id" value="84be51" />
+              <option name="initiateTms" value="1694469111857" />
+              <option name="request" value="How to fix the following error:&#10;Cannot resolve method 'super' in 'Circle'" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="The error &quot;Cannot resolve method 'super' in 'Circle'&quot; occurs when you try to call the `super` keyword in a context where it is not applicable. In the case of your code, it seems that you are trying to call `super.toString()` in the `Circle` class.&#10;&#10;To fix this error, you need to remove the `super` keyword and call the `toString()` method directly without using `super`. Here's the corrected code:&#10;&#10;```java&#10;public class Circle extends Shape {&#10;    private Point center;&#10;    private double radius;&#10;&#10;    public Circle(Point center, double radius) {&#10;        super(&quot;Circle&quot;, true);&#10;        this.center = center;&#10;        this.radius = radius;&#10;    }&#10;&#10;    public Point getCenter() {&#10;        return center;&#10;    }&#10;&#10;    public void setCenter(Point center) {&#10;        this.center = center;&#10;    }&#10;&#10;    public double getRadius() {&#10;        return radius;&#10;    }&#10;&#10;    public void setRadius(double radius) {&#10;        this.radius = radius;&#10;    }&#10;&#10;    @Override&#10;    public double getArea() {&#10;        return Math.PI * radius * radius;&#10;    }&#10;&#10;    @Override&#10;    public double getPerimeter() {&#10;        return 2 * Math.PI * radius;&#10;    }&#10;&#10;    @Override&#10;    public String toString() {&#10;        return &quot;This is a &quot; + getColor() + &quot; &quot; + getType() + &quot; with center at &quot; + center + &quot; and radius &quot; + radius;&#10;    }&#10;}&#10;```&#10;&#10;In the `toString()` method of the `Circle` class, I have replaced `super.toString()` with `getColor()` and `getType()` methods to access the color and type of the shape. This will correctly display the color and type of the circle.&#10;&#10;By making this change, the error should be resolved. Let me know if you have any further questions!" />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1694469121186" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/lab2/task3/Circle.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task1/Shape.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task8/Shape.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task8/Circle.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task1/Circle.java" />
+                  <option value="$PROJECT_DIR$/src/lab2/task6/Circle.java" />
                 </list>
               </option>
             </ChatHistoryModel>
@@ -315,6 +462,42 @@
                   <option value="$PROJECT_DIR$/src/lab2/task7/Book.java" />
                   <option value="$PROJECT_DIR$/src/lab2/task7/Booktest.java" />
                   <option value="$PROJECT_DIR$/src/lab2/task7/Shelf.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="db94bd">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/lab4_1/task8/Circle.java" />
+                  <option value="$PROJECT_DIR$/src/lab2/task3/Circle.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task1/Circle.java" />
+                  <option value="$PROJECT_DIR$/src/lab2/task6/Circle.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task1/Rectangle.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task1/Shape.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task8/Shape.java" />
+                </list>
+              </option>
+              <option name="id" value="db94bd" />
+              <option name="initiateTms" value="1694468634051" />
+              <option name="request" value="В подклассах Circle (круг) и Rectangle (прямоугольник) должны&#10;переопределяться абстрактные методы getArea() и getPerimeter(), чтобы&#10;обеспечить их надлежащее выполнение для конкретных экземпляров типа&#10;подкласс. Также необходимо для каждого подкласса переопределить toString() ." />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Вот обновленный код с учетом переопределения абстрактных методов `getArea()` и `getPerimeter()` в подклассах `Circle` и `Rectangle`, а также переопределения метода `toString()` для каждого подкласса:&#10;&#10;```java&#10;public abstract class Shape {&#10;    protected String color;&#10;    protected boolean filled;&#10;&#10;    public Shape(String color, boolean filled) {&#10;        this.color = color;&#10;        this.filled = filled;&#10;    }&#10;&#10;    public String getColor() {&#10;        return color;&#10;    }&#10;&#10;    public void setColor(String color) {&#10;        this.color = color;&#10;    }&#10;&#10;    public boolean isFilled() {&#10;        return filled;&#10;    }&#10;&#10;    public void setFilled(boolean filled) {&#10;        this.filled = filled;&#10;    }&#10;&#10;    public abstract double getArea();&#10;    public abstract double getPerimeter();&#10;&#10;    @Override&#10;    public String toString() {&#10;        return &quot;This is a &quot; + getColor() + &quot; shape&quot;;&#10;    }&#10;}&#10;&#10;public class Circle extends Shape {&#10;    private Point center;&#10;    private double radius;&#10;&#10;    public Circle(Point center, double radius) {&#10;        super(&quot;Circle&quot;, true);&#10;        this.center = center;&#10;        this.radius = radius;&#10;    }&#10;&#10;    public Point getCenter() {&#10;        return center;&#10;    }&#10;&#10;    public void setCenter(Point center) {&#10;        this.center = center;&#10;    }&#10;&#10;    public double getRadius() {&#10;        return radius;&#10;    }&#10;&#10;    public void setRadius(double radius) {&#10;        this.radius = radius;&#10;    }&#10;&#10;    @Override&#10;    public double getArea() {&#10;        return Math.PI * radius * radius;&#10;    }&#10;&#10;    @Override&#10;    public double getPerimeter() {&#10;        return 2 * Math.PI * radius;&#10;    }&#10;&#10;    @Override&#10;    public String toString() {&#10;        return super.toString() + &quot; with center at &quot; + center + &quot; and radius &quot; + radius;&#10;    }&#10;}&#10;&#10;public class Rectangle extends Shape {&#10;    private double width;&#10;    private double height;&#10;&#10;    public Rectangle(double width, double height) {&#10;        super(&quot;Rectangle&quot;, true);&#10;        this.width = width;&#10;        this.height = height;&#10;    }&#10;&#10;    public double getWidth() {&#10;        return width;&#10;    }&#10;&#10;    public void setWidth(double width) {&#10;        this.width = width;&#10;    }&#10;&#10;    public double getHeight() {&#10;        return height;&#10;    }&#10;&#10;    public void setHeight(double height) {&#10;        this.height = height;&#10;    }&#10;&#10;    @Override&#10;    public double getArea() {&#10;        return width * height;&#10;    }&#10;&#10;    @Override&#10;    public double getPerimeter() {&#10;        return 2 * (width + height);&#10;    }&#10;&#10;    @Override&#10;    public String toString() {&#10;        return super.toString() + &quot; with width &quot; + width + &quot; and height &quot; + height;&#10;    }&#10;}&#10;&#10;public class Point {&#10;    private double x;&#10;    private double y;&#10;&#10;    public Point(double x, double y) {&#10;        this.x = x;&#10;        this.y = y;&#10;    }&#10;&#10;    public double getX() {&#10;        return x;&#10;    }&#10;&#10;    public void setX(double x) {&#10;        this.x = x;&#10;    }&#10;&#10;    public double getY() {&#10;        return y;&#10;    }&#10;&#10;    public void setY(double y) {&#10;        this.y = y;&#10;    }&#10;&#10;    @Override&#10;    public String toString() {&#10;        return &quot;(&quot; + x + &quot;, &quot; + y + &quot;)&quot;;&#10;    }&#10;}&#10;```&#10;&#10;В этом обновленном коде класс `Shape` является абстрактным и содержит абстрактные методы `getArea()` и `getPerimeter()`, которые должны быть переопределены в подклассах `Circle` и `Rectangle`. Класс `Shape` также переопределяет метод `toString()` для вывода информации о цвете фигуры.&#10;&#10;Класс `Circle` расширяет `Shape` и добавляет поля `center` (центр круга) и `radius` (радиус круга). Он также переопределяет методы `getArea()`, `getPerimeter()` и `toString()` для правильного вычисления площади, периметра и вывода информации о круге.&#10;&#10;Класс `Rectangle` также расширяет `Shape` и добавляет поля `width` (ширина прямоугольника) и `height` (высота прямоугольника). Он также переопределяет методы `getArea()`, `getPerimeter()` и `toString()` для правильного вычисления площади, периметра и вывода информации о прямоугольнике.&#10;&#10;Класс `Point` представляет точку с координатами `x` и `y` и переопределяет метод `toString()` для вывода координат точки.&#10;&#10;Надеюсь, это поможет! Если у вас есть еще вопросы, пожалуйста, дайте мне знать." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1694468693355" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/lab2/task3/Circle.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task1/Shape.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task1/Rectangle.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task8/Shape.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task8/Circle.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task1/Circle.java" />
+                  <option value="$PROJECT_DIR$/src/lab2/task6/Circle.java" />
                 </list>
               </option>
             </ChatHistoryModel>
