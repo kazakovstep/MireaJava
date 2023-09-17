@@ -4,67 +4,49 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca49d498-f36e-4115-8764-b0df48c390f3" name="Changes" comment="lab3">
-      <change afterPath="$PROJECT_DIR$/src/lab4/task1/FavoriteSeason.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/task1/Season.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/task2/Atelier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/task2/Clothes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/task2/ClothingSize.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/task2/MenClothing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/task2/Pants.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/task2/Skirt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/task2/TShirt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/task2/Tie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/task2/WomenClothing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/task3/Cart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/task3/Category.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/task3/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/task3/Store.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/task4/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/task4/ComputerBrand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/task4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/task4/Memory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/task4/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4/task4/Processor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task1/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task1/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task1/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task1/ShapeTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task1/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task10/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task10/Plane.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task10/Ship.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task10/Train.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task10/Transport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task10/TransportTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task2/Phone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task3/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task4/Matrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task5/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task5/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task5/Reader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task6/Employer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task6/Manager.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task7/School.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task7/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task7/StudyPeople.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task8/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task8/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task8/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task8/ShapeTester.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task8/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task9/Chair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task9/Furniture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task9/FurnitureShop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task9/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task9/Sofa.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab4_1/task9/Table.java" afterDir="false" />
+    <list default="true" id="ca49d498-f36e-4115-8764-b0df48c390f3" name="Changes" comment="lab4 and 4_1">
+      <change afterPath="$PROJECT_DIR$/src/lab5/AnimationApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab5/DrawShapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab5/FootballMatch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab5/ShowImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab5/image_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab5/image_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab5/image_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab5/image_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/task1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/task1/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/task1/MovableCircle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/task1/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/task10/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/task10/Comands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/task10/Computer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/task10/Memory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/task10/Monitor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/task10/Processor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/task10/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/task10/Titles.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/task11/Convertable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/task11/Converter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/task11/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/task2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/task2/Movable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/task2/MovablePoint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/task2/MovableRectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/task3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/task3/Nameable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/task3/Object.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/task4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/task4/Object.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/task4/Priceable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/task6789/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/task6789/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/task6789/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab6/task6789/Shop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/task10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/task11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/task12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/task8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab8/task9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,20 +82,28 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/kazak/MireaJava/src/lab4_1/task8",
+    "last_opened_file_path": "C:/Users/kazak/MireaJava/src/lab6/task10",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kazak\MireaJava\src\lab6\task10" />
+      <recent name="C:\Users\kazak\MireaJava\src\lab6\task6789" />
+      <recent name="C:\Users\kazak\MireaJava\src\lab6\task2" />
+      <recent name="C:\Users\kazak\MireaJava\src\lab6" />
       <recent name="C:\Users\kazak\MireaJava\src\lab4_1\task8" />
-      <recent name="C:\Users\kazak\MireaJava\src\lab4_1" />
-      <recent name="C:\Users\kazak\MireaJava\src\lab4" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kazak\MireaJava\src\lab6\task4" />
+      <recent name="C:\Users\kazak\MireaJava\src\lab6\task3" />
+      <recent name="C:\Users\kazak\MireaJava\src\lab5" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -135,7 +125,16 @@
       <workItem from="1694366997209" duration="5045000" />
       <workItem from="1694374522159" duration="3000" />
       <workItem from="1694416343195" duration="2585000" />
-      <workItem from="1694463670396" duration="6510000" />
+      <workItem from="1694463670396" duration="6673000" />
+      <workItem from="1694504633420" duration="282000" />
+      <workItem from="1694507062148" duration="67000" />
+      <workItem from="1694716147656" duration="81000" />
+      <workItem from="1694718229116" duration="5000" />
+      <workItem from="1694781747164" duration="1372000" />
+      <workItem from="1694953481245" duration="59000" />
+      <workItem from="1694953877381" duration="2981000" />
+      <workItem from="1694959635393" duration="59000" />
+      <workItem from="1694959959458" duration="628000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1693862987472</created>
@@ -165,7 +164,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694373493011</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="lab4 and 4_1">
+      <created>1694470375757</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1694470375757</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,7 +204,8 @@
     <MESSAGE value="init" />
     <MESSAGE value="initv2" />
     <MESSAGE value="lab3" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab3" />
+    <MESSAGE value="lab4 and 4_1" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab4 and 4_1" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
@@ -242,6 +249,30 @@
                 <list>
                   <option value="$PROJECT_DIR$/src/lab2/task3/TestPointCircle.java" />
                   <option value="$PROJECT_DIR$/src/lab2/task3/Circle.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="5a0184">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/lab5/AnimationApp.java" />
+                </list>
+              </option>
+              <option name="id" value="5a0184" />
+              <option name="initiateTms" value="1694954320307" />
+              <option name="request" value="как отрыть AnimationApp во весь экран" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Чтобы открыть `AnimationApp` во весь экран, вы можете использовать метод `setExtendedState()` и передать ему значение `JFrame.MAXIMIZED_BOTH`. Вот обновленный код:&#10;&#10;```java&#10;public class AnimationApp extends JFrame {&#10;    // ...&#10;&#10;    public AnimationApp() {&#10;        setTitle(&quot;AnimationApp&quot;);&#10;        setExtendedState(JFrame.MAXIMIZED_BOTH); // Открыть во весь экран&#10;        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);&#10;        setLocationRelativeTo(null);&#10;&#10;        // ...&#10;    }&#10;&#10;    // ...&#10;}&#10;```&#10;&#10;Добавив эту строку `setExtendedState(JFrame.MAXIMIZED_BOTH);` в конструктор `AnimationApp`, окно будет открыто во весь экран при запуске приложения.&#10;&#10;Обратите внимание, что вам также нужно импортировать класс `JFrame` из пакета `javax.swing`.&#10;&#10;Надеюсь, это поможет! Если у вас есть еще вопросы, пожалуйста, дайте мне знать." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1694954333053" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/lab5/AnimationApp.java" />
                 </list>
               </option>
             </ChatHistoryModel>
@@ -574,6 +605,48 @@
               <option name="usedFilesPaths">
                 <list>
                   <option value="$PROJECT_DIR$/src/lab2/task10/HowMany.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="f969df">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/lab5/AnimationApp.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task4/Main.java" />
+                  <option value="$PROJECT_DIR$/src/lab4/task2/Main.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task9/Main.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task7/Main.java" />
+                  <option value="$PROJECT_DIR$/src/lab4/task4/Main.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task2/Main.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task6/Main.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task3/Main.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task5/Main.java" />
+                </list>
+              </option>
+              <option name="id" value="f969df" />
+              <option name="initiateTms" value="1694954063228" />
+              <option name="request" value="package lab5;&#10;&#10;import javax.swing.*;&#10;import java.awt.*;&#10;import java.awt.event.ActionEvent;&#10;import java.awt.event.ActionListener;&#10;&#10;public class AnimationApp extends JFrame {&#10;    private ImageIcon[] frames;&#10;    private JLabel animationLabel;&#10;    private int currentFrame = 0;&#10;&#10;    public AnimationApp() {&#10;        setTitle(&quot;AnimationApp&quot;);&#10;        setSize(400, 800);&#10;        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);&#10;        setLocationRelativeTo(null);&#10;&#10;        frames = new ImageIcon[4];&#10;        for (int i = 0; i &lt; 4; i++) {&#10;            frames[i] = new ImageIcon(&quot;C:/Users/kazak/MireaJava/src/lab5/frame&quot; + (i + 1) + &quot;.png&quot;);&#10;        }&#10;&#10;        animationLabel = new JLabel(frames[currentFrame]);&#10;        add(animationLabel, BorderLayout.CENTER);&#10;&#10;        Timer timer = new Timer(500, new ActionListener() {&#10;            @Override&#10;            public void actionPerformed(ActionEvent e) {&#10;                currentFrame = (currentFrame + 1) % frames.length;&#10;                animationLabel.setIcon(frames[currentFrame]);&#10;            }&#10;        });&#10;        timer.start();&#10;    }&#10;&#10;    public static void main(String[] args) {&#10;        SwingUtilities.invokeLater(() -&gt; {&#10;            AnimationApp app = new AnimationApp();&#10;            app.setVisible(true);&#10;        });&#10;    }&#10;}&#10;&#10;перепиши main функцию " />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Ваша `main` функция уже написана в правильном формате, используя метод `SwingUtilities.invokeLater()`, чтобы запустить ваше приложение в потоке обработки событий Swing. Однако, если вы хотите добавить дополнительную функциональность в `main`, вы можете сделать следующие изменения:&#10;&#10;```java&#10;public static void main(String[] args) {&#10;    SwingUtilities.invokeLater(() -&gt; {&#10;        AnimationApp app = new AnimationApp();&#10;        app.setVisible(true);&#10;&#10;        // Дополнительный код, если необходимо&#10;        // Например, добавление кнопки для остановки анимации&#10;        JButton stopButton = new JButton(&quot;Stop Animation&quot;);&#10;        stopButton.addActionListener(new ActionListener() {&#10;            @Override&#10;            public void actionPerformed(ActionEvent e) {&#10;                app.stopAnimation();&#10;            }&#10;        });&#10;        app.add(stopButton, BorderLayout.SOUTH);&#10;    });&#10;}&#10;```&#10;&#10;В этом примере я добавил кнопку &quot;Stop Animation&quot; внизу окна приложения. При нажатии на эту кнопку вызывается метод `stopAnimation()`, который вы должны добавить в класс `AnimationApp`. Это позволит остановить анимацию.&#10;&#10;```java&#10;public void stopAnimation() {&#10;    // Дополнительный код для остановки анимации&#10;    // Например, остановка таймера&#10;    timer.stop();&#10;}&#10;```&#10;&#10;Обратите внимание, что вам нужно объявить переменную `timer` как поле класса `AnimationApp`, чтобы она была доступна в методе `stopAnimation()`.&#10;&#10;Надеюсь, это поможет! Если у вас есть еще вопросы, пожалуйста, дайте мне знать." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1694954081623" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/lab4_1/task5/Main.java" />
+                  <option value="$PROJECT_DIR$/src/lab4/task4/Main.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task4/Main.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task6/Main.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task9/Main.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task3/Main.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task7/Main.java" />
+                  <option value="$PROJECT_DIR$/src/lab5/AnimationApp.java" />
+                  <option value="$PROJECT_DIR$/src/lab4/task2/Main.java" />
+                  <option value="$PROJECT_DIR$/src/lab4_1/task2/Main.java" />
                 </list>
               </option>
             </ChatHistoryModel>
