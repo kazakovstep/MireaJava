@@ -92,9 +92,7 @@ public class DrawShapes extends JFrame {
     }
 
     public static void main(String[] args) {
-
         DrawShapes app = new DrawShapes();
         app.setVisible(true);
-
     }
 }

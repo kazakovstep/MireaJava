@@ -4,50 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca49d498-f36e-4115-8764-b0df48c390f3" name="Changes" comment="lab4 and 4_1">
-      <change afterPath="$PROJECT_DIR$/src/lab5/AnimationApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab5/DrawShapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab5/FootballMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab5/ShowImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab5/image_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab5/image_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab5/image_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab5/image_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task1/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task1/MovableCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task1/MovablePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task10/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task10/Comands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task10/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task10/Memory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task10/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task10/Processor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task10/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task10/Titles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task11/Convertable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task11/Converter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task11/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task2/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task2/MovablePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task2/MovableRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task3/Nameable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task3/Object.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task4/Object.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task4/Priceable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task6789/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task6789/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task6789/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task6789/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab8/task10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab8/task11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab8/task12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab8/task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab8/task9.java" afterDir="false" />
+    <list default="true" id="ca49d498-f36e-4115-8764-b0df48c390f3" name="Changes" comment="lab5,6,8">
+      <change afterPath="$PROJECT_DIR$/src/lab10/SortingStudentsByGPA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab10/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/number1/TaskInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/number2/DateComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/number3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/number3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/number4/DateAndCalendarFromUserInput.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab11/number5/PerformanceComparison.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab7/task4/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab7/task4/MathCalculable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab7/task4/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab7/task567/ProcessStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab7/task567/WorkStr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab7/task89/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab7/task89/Journal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab7/task89/Printable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab7/task89/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/number1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/number1/StudentSortTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/number2/SortingStudentsByGPA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/number2/SortingStudentsByGPATest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/number2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/number3/MergeSortStudents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/number3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/number4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/number4/MyClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab9/number4/MyComparable.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/lab5/DrawShapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab5/DrawShapes.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,26 +58,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/kazak/MireaJava/src/lab6/task10",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kazak/MireaJava/src/lab6/task10&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\kazak\MireaJava\src\lab6\task10" />
@@ -101,6 +88,7 @@
       <recent name="C:\Users\kazak\MireaJava\src\lab4_1\task8" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kazak\MireaJava\src" />
       <recent name="C:\Users\kazak\MireaJava\src\lab6\task4" />
       <recent name="C:\Users\kazak\MireaJava\src\lab6\task3" />
       <recent name="C:\Users\kazak\MireaJava\src\lab5" />
@@ -134,7 +122,10 @@
       <workItem from="1694953481245" duration="59000" />
       <workItem from="1694953877381" duration="2981000" />
       <workItem from="1694959635393" duration="59000" />
-      <workItem from="1694959959458" duration="628000" />
+      <workItem from="1694959959458" duration="919000" />
+      <workItem from="1695017278947" duration="1882000" />
+      <workItem from="1695022609131" duration="1327000" />
+      <workItem from="1695111510697" duration="911000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1693862987472</created>
@@ -171,7 +162,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694470375757</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="lab5,6,8">
+      <created>1694960872648</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1694960872648</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -201,11 +199,13 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="init" />
     <MESSAGE value="initv2" />
     <MESSAGE value="lab3" />
     <MESSAGE value="lab4 and 4_1" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab4 and 4_1" />
+    <MESSAGE value="lab5,6,8" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab5,6,8" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
@@ -352,6 +352,30 @@
             </ChatHistoryModel>
           </value>
         </entry>
+        <entry key="6b6f98">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/lab5/ShowImage.java" />
+                </list>
+              </option>
+              <option name="id" value="6b6f98" />
+              <option name="initiateTms" value="1695017727489" />
+              <option name="request" value="SwingUtilities.invokeLater(new Runnable() {&#10;            @Override&#10;            public void run() {&#10;                JFrame frame = new JFrame(path);&#10;                frame.setDefaultCloseOperation(3);&#10;                BufferedImage img;&#10;                try {&#10;                    img = ImageIO.read(new File(path));&#10;                } catch (IOException e) {&#10;                    throw new RuntimeException(e);&#10;                }&#10;                JLabel label = new JLabel();&#10;                label.setIcon(new ImageIcon(img));&#10;                frame.getContentPane().add(label, BorderLayout.CENTER);&#10;                frame.pack();&#10;                frame.setLocationRelativeTo(null);&#10;                frame.setVisible(true);&#10;            }&#10;        });&#10;что такое         SwingUtilities.invokeLater(new Runnable() {&#10;" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="`SwingUtilities.invokeLater(new Runnable() { ... })` используется для запуска кода в потоке обработки событий Swing (Event Dispatch Thread, EDT). &#10;&#10;В Java Swing, все графические операции должны выполняться в EDT, чтобы обеспечить безопасность потоков и избежать блокировки пользовательского интерфейса. `SwingUtilities.invokeLater()` позволяет запустить код в EDT, гарантируя, что он будет выполнен в правильном потоке.&#10;&#10;В вашем примере, код внутри `run()` метода будет выполнен в EDT. Он создает новый `JFrame`, загружает изображение из файла, создает `JLabel` с иконкой изображения, добавляет его в контейнер `frame`, устанавливает размещение, устанавливает размеры окна с помощью `pack()`, устанавливает положение окна относительно центра экрана и делает окно видимым.&#10;&#10;Таким образом, `SwingUtilities.invokeLater(new Runnable() { ... })` обеспечивает правильное выполнение кода, связанного с созданием и отображением графического интерфейса Swing.&#10;&#10;Если у вас есть еще вопросы, пожалуйста, дайте мне знать." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1695017748379" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/lab5/ShowImage.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
         <entry key="78ec94">
           <value>
             <ChatHistoryModel>
@@ -439,6 +463,30 @@
               <option name="usedFilesPaths">
                 <list>
                   <option value="$PROJECT_DIR$/src/lab2/task9/Poker.java" />
+                </list>
+              </option>
+            </ChatHistoryModel>
+          </value>
+        </entry>
+        <entry key="aec90e">
+          <value>
+            <ChatHistoryModel>
+              <option name="contextFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/lab5/ShowImage.java" />
+                </list>
+              </option>
+              <option name="id" value="aec90e" />
+              <option name="initiateTms" value="1695017780463" />
+              <option name="request" value="сделай без него" />
+              <option name="response" value="" />
+              <option name="responseDescription" value="Если вы хотите выполнить код без использования `SwingUtilities.invokeLater()`, вы можете просто вызвать метод `setVisible(true)` после создания и настройки `JFrame`. Вот обновленный код без использования `SwingUtilities.invokeLater()`:&#10;&#10;```java&#10;public class ShowImage extends JFrame {&#10;&#10;    public ShowImage(String path) {&#10;        setTitle(path);&#10;        setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);&#10;        BufferedImage img;&#10;        try {&#10;            img = ImageIO.read(new File(path));&#10;        } catch (IOException e) {&#10;            throw new RuntimeException(e);&#10;        }&#10;        JLabel label = new JLabel();&#10;        label.setIcon(new ImageIcon(img));&#10;        getContentPane().add(label, BorderLayout.CENTER);&#10;        pack();&#10;        setLocationRelativeTo(null);&#10;        setVisible(true);&#10;    }&#10;&#10;    public static void main(String[] args) {&#10;        new ShowImage(&quot;C:\\Users\\kazak\\OneDrive\\Рабочий стол\\film.jpg&quot;);&#10;    }&#10;}&#10;```&#10;&#10;В этом обновленном коде, после создания `JFrame` и настройки его свойств, мы вызываем `setVisible(true)` для отображения окна с изображением.&#10;&#10;Обратите внимание, что `setVisible(true)` должен быть вызван после настройки всех компонентов и свойств окна, чтобы гарантировать правильное отображение.&#10;&#10;Надеюсь, это поможет! Если у вас есть еще вопросы, пожалуйста, дайте мне знать." />
+              <option name="responseFileName" value="" />
+              <option name="responseFilePath" value="" />
+              <option name="responseTms" value="1695017788179" />
+              <option name="usedFilesPaths">
+                <list>
+                  <option value="$PROJECT_DIR$/src/lab5/ShowImage.java" />
                 </list>
               </option>
             </ChatHistoryModel>
