@@ -5,48 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ca49d498-f36e-4115-8764-b0df48c390f3" name="Changes" comment="lab4 and 4_1">
-      <change afterPath="$PROJECT_DIR$/src/lab5/AnimationApp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab5/DrawShapes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab5/FootballMatch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab5/ShowImage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab5/image_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab5/image_2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab5/image_3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab5/image_4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task1/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task1/MovableCircle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task1/MovablePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task10/Box.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task10/Comands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task10/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task10/Memory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task10/Monitor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task10/Processor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task10/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task10/Titles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task11/Convertable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task11/Converter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task11/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task2/Movable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task2/MovablePoint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task2/MovableRectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task3/Nameable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task3/Object.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task4/Object.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task4/Priceable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task6789/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task6789/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task6789/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab6/task6789/Shop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab8/task10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab8/task11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab8/task12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab8/task8.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab8/task9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab15/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab15/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab15/task3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab15/task4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab16/task1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab16/task2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab16/task3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,9 +27,15 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2UvJnNdkqJwyOvxkVAi4JsFjWEE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -72,26 +44,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Downloaded.Files.Path.Enabled": "false",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/kazak/MireaJava/src/lab6/task10",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kazak/MireaJava/src/lab6/task10&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\kazak\MireaJava\src\lab6\task10" />
@@ -135,6 +108,8 @@
       <workItem from="1694953877381" duration="2981000" />
       <workItem from="1694959635393" duration="59000" />
       <workItem from="1694959959458" duration="628000" />
+      <workItem from="1695245148336" duration="15000" />
+      <workItem from="1696062683421" duration="2279000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1693862987472</created>
