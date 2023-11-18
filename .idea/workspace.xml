@@ -4,36 +4,90 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ca49d498-f36e-4115-8764-b0df48c390f3" name="Changes" comment="lab5,6,8">
-      <change afterPath="$PROJECT_DIR$/src/lab10/SortingStudentsByGPA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab10/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab11/number1/TaskInfo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab11/number2/DateComparison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab11/number3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab11/number3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab11/number4/DateAndCalendarFromUserInput.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab11/number5/PerformanceComparison.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/task4/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/task4/MathCalculable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/task4/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/task567/ProcessStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/task567/WorkStr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/task89/Book.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/task89/Journal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/task89/Printable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab7/task89/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab9/number1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab9/number1/StudentSortTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab9/number2/SortingStudentsByGPA.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab9/number2/SortingStudentsByGPATest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab9/number2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab9/number3/MergeSortStudents.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab9/number3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab9/number4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab9/number4/MyClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/lab9/number4/MyComparable.java" afterDir="false" />
+    <list default="true" id="ca49d498-f36e-4115-8764-b0df48c390f3" name="Changes" comment="lab9-11">
+      <change afterPath="$PROJECT_DIR$/src/lab12/AnimationApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab12/DrawShapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab12/ShowImage.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab12/image_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab12/image_2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab12/image_3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab12/image_4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab12/image_5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab13/box1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab13/box2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab13/box2/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab13/box3/Adress.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab13/box3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab13/box4/Shirt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab13/box5/PhoneNumberConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab13/box6/WordArranger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab13/box6/maki.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab14/box1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab14/box2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab14/box3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab14/box4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab14/box5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab14/box6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab14/box7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab14/box8/Filter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab14/box8/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab14/box9/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab17/box1/MVCPatternDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab17/box1/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab17/box1/StudentController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab17/box1/StudentView.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab17/box2/Controller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab17/box2/MVCPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab17/box2/View.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab17/box2/Worker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab18/box1234/Exception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab18/box5678/TestTrows.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab19/number1/INNValidater.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab19/number1/InvalidINNException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab19/number2/SortingStudentsByGPA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab19/number2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab19/number2/StudentNotFoundException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab20/number123/MyGenericClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab20/number4/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab20/number4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab20/number4/MinMax.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab20/number5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab20/number5/Matrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab21/number1/ArrayToListConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab21/number1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab21/number2/GenericArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab21/number3/ArrayUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab21/number4/DirectoryListing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab21/number5/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab22/number1/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab22/number2/CalculatorTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/number1/ArrayQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/number1/ArrayQueueADT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/number1/ArrayQueueADTTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/number1/ArrayQueueModule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/number1/ArrayQueueModuleTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/number1/ArrayQueueTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/number1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/number2/AbstractQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/number2/LinkedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/number2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/number2/Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/number3/Add.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/number3/BinaryOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/number3/Const.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/number3/Divide.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/number3/Expression.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/number3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/number3/Multiply.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/number3/Subtract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab23/number3/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab24/task1/CreateTextDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab24/task1/EditorWindow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab24/task1/ICreateDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab24/task1/IDocument.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/lab24/task1/TextDocument.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/lab5/DrawShapes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/lab5/DrawShapes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/MireaJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/MireaJava.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +98,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -69,7 +124,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/kazak/MireaJava/src/lab6/task10&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kazak/MireaJava/src&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -81,11 +136,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kazak\MireaJava\src" />
       <recent name="C:\Users\kazak\MireaJava\src\lab6\task10" />
       <recent name="C:\Users\kazak\MireaJava\src\lab6\task6789" />
       <recent name="C:\Users\kazak\MireaJava\src\lab6\task2" />
       <recent name="C:\Users\kazak\MireaJava\src\lab6" />
-      <recent name="C:\Users\kazak\MireaJava\src\lab4_1\task8" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\kazak\MireaJava\src" />
@@ -126,6 +181,27 @@
       <workItem from="1695017278947" duration="1882000" />
       <workItem from="1695022609131" duration="1327000" />
       <workItem from="1695111510697" duration="911000" />
+      <workItem from="1695325750120" duration="40000" />
+      <workItem from="1696856656140" duration="13000" />
+      <workItem from="1696856703874" duration="2239000" />
+      <workItem from="1696924417334" duration="752000" />
+      <workItem from="1697098074415" duration="34000" />
+      <workItem from="1697098606220" duration="1639000" />
+      <workItem from="1697108771444" duration="284000" />
+      <workItem from="1697145618506" duration="311000" />
+      <workItem from="1697737619588" duration="2000" />
+      <workItem from="1698099717369" duration="1000" />
+      <workItem from="1698434280896" duration="1000" />
+      <workItem from="1698488976424" duration="412000" />
+      <workItem from="1698836125760" duration="218000" />
+      <workItem from="1698962270798" duration="3000" />
+      <workItem from="1699012868358" duration="1000" />
+      <workItem from="1699137761202" duration="4000" />
+      <workItem from="1699137782316" duration="31000" />
+      <workItem from="1699560807998" duration="595000" />
+      <workItem from="1700114812674" duration="705000" />
+      <workItem from="1700133088810" duration="289000" />
+      <workItem from="1700134225270" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="init">
       <created>1693862987472</created>
@@ -169,7 +245,14 @@
       <option name="project" value="LOCAL" />
       <updated>1694960872648</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="lab9-11">
+      <created>1695325783104</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1695325783104</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -205,7 +288,8 @@
     <MESSAGE value="lab3" />
     <MESSAGE value="lab4 and 4_1" />
     <MESSAGE value="lab5,6,8" />
-    <option name="LAST_COMMIT_MESSAGE" value="lab5,6,8" />
+    <MESSAGE value="lab9-11" />
+    <option name="LAST_COMMIT_MESSAGE" value="lab9-11" />
   </component>
   <component name="com.github.evgenys91.machinet.common.dslhistory.DslHistoryState">
     <option name="historyDtoById">
